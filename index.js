@@ -1,4 +1,3 @@
-
 const tela = document.getElementById("tela");
 
 function adicionaNaTela(input) {
@@ -24,3 +23,4 @@ function calculadora() {
 
     }
 }
+
